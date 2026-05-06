@@ -24,7 +24,7 @@ This table highlights my technical methodology and practical application of secu
 
 ---
 
-### 🎓 Specialized Knowledge (Master's Focus)
+### 🎓 Specialized Knowledge
 - **Cybersecurity Compliance & Audit:** Mapping technical controls to regulatory requirements.
 - **Legal & Ethical Business Environments:** Ensuring privacy-by-design and ethical data handling.
 - **Process Management:** Developing SOPs for organizational consistency.
