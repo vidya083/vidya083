@@ -1,39 +1,40 @@
 # Srividya Kotagiri
+**Cybersecurity & GRC Analyst | MS in Cybersecurity Management | NIST CSF 2.0 & ISO 27001**
 
-**Aspiring GRC Analyst | MS in Cybersecurity Management | ISO 27001 & NIST CSF**
-
-[LinkedIn](www.linkedin.com/in/srividya-kotagiri-a07a08132) | [Email](mailto:srividya4767@gmail.com) | Open to GRC, IT Audit, and Risk Management roles
+[LinkedIn](https://www.linkedin.com/in/srividya-kotagiri-a07a08132) | [Email](mailto:sri.kotagiri1@gmail.com) | Located in Plano, TX (Open to Remote/Relocation)
 
 ---
 
-### About Me
-I transitioned into GRC through 4+ years of technical operations. Having managed enterprise **RSA Archer IRM** and **Microsoft 365 Governance**, I understand the technical systems that live behind the policies. 
+### 🛡️ About Me
+I specialize in bridging the gap between high-level governance and technical security operations. With over 4 years of experience at **Tech Mahindra** and a **Master of Science in Cybersecurity Management from Lindsey Wilson University**, I bring a data-driven, "automation-first" approach to GRC.
 
-My approach to GRC is centered on making compliance **automated, scalable, and practical.** This portfolio showcases projects built from actual industry methodology, organized the way a real compliance program functions.
+I don't just write policies; I understand the systems behind them. My background includes administering **RSA Archer IRM** and **Microsoft 365 Governance**, focusing on making compliance scalable, practical, and audit-ready.
 
-### 🛠️ GRC Portfolio & Practical Labs
-This table highlights my technical methodology and practical application of security frameworks.
+---
 
-| Project Category | Focus Area | Artifacts & Documentation |
+### 🛠️ GRC Portfolio & Practical Implementation
+This portfolio showcases my ability to translate frameworks into functional business artifacts.
+
+| Project Category | Framework / Focus | Featured Implementation |
 | :--- | :--- | :--- |
-| **Governance** | ISO 27001:2022 | [ISMS Gap Analysis & Policy Framework](#) |
-| **Risk Management** | NIST CSF 2.0 | [Enterprise Risk Assessment & Treatment Plan](#) |
-| **Technical Compliance** | M365 & SharePoint | [Least Privilege Audit & Permission Mapping](#) |
-| **Automation** | Python & Archer | [Automated Evidence Collection Scripts](#) |
-| **Audit Readiness** | HIPAA / FERPA | [Audit Evidence Logs & Internal Audit Report](#) |
+| **Enterprise Governance** | **NIST CSF 2.0** | [**Full-Lifecycle Implementation: Croshop Social Impact Startup**](https://github.com/vidya083/NIST-CSF-2.0-Implementation-Croshop) |
+| **Risk Management** | **ISO 27001:2022** | [ISMS Gap Analysis & Risk Treatment Plan (Coming Soon)](#) |
+| **Identity & Access** | **IAM / RBAC** | [Access Management Policy & Least-Privilege Mapping](./Project-Documentation/Step-2-Access-Policy.pdf) |
+| **Incident Response** | **NIST RS/RC** | [Functional Emergency "Quick-Action" Guide](./Project-Documentation/Step-4-Incident-Response-Guide.pdf) |
+| **Audit Readiness** | **Compliance Audit** | [Internal Audit Report & Evidence Collection Log](#) |
 
 ---
 
-### 🎓 Specialized Knowledge
-- **Cybersecurity Compliance & Audit:** Mapping technical controls to regulatory requirements.
-- **Legal & Ethical Business Environments:** Ensuring privacy-by-design and ethical data handling.
-- **Process Management:** Developing SOPs for organizational consistency.
+### 🎓 Expertise & Core Competencies
+- **Framework Implementation:** NIST CSF 2.0, ISO 27001, HIPAA, GDPR.
+- **Strategic Risk Management:** Qualitative risk assessments and remediation roadmaps.
+- **Technical GRC:** Archer IRM administration, M365 Purview, and API-driven evidence collection.
+- **Social Impact:** Committed to empowering decentralized teams through secure vocational training initiatives.
 
-### 🏅 Certifications & Tools
-![ISC2 CC](https://img.shields.io/badge/Certification-ISC2_CC-blue?style=flat-square) 
-![Google Cyber](https://img.shields.io/badge/Certification-Google_Cybersecurity-informational?style=flat-square)
-![ISO 27001](https://img.shields.io/badge/Focus-ISO_27001_Lead_Auditor-green?style=flat-square)
+### 🏅 Certifications & Technical Toolkit
+![ISC2 CC](https://img.shields.io/badge/Certification-ISC2_CC-blue?style=for-the-badge) ![CompTIA Security+](https://img.shields.io/badge/Certification-Security%2B-orange?style=for-the-badge) ![Google Cyber](https://img.shields.io/badge/Certification-Google_Cybersecurity-informational?style=for-the-badge)
 
-![RSA Archer](https://img.shields.io/badge/Tool-RSA_Archer-red?style=flat-square)
-![M365](https://img.shields.io/badge/Tool-Microsoft_365-orange?style=flat-square)
-![Python](https://img.shields.io/badge/Language-Python-yellow?style=flat-square)
+**Tools & Languages:**
+- **GRC/IRM:** RSA Archer, Microsoft Purview
+- **SIEM/Analytics:** Splunk, Power BI
+- **Automation:** Python, SQL, REST APIs
